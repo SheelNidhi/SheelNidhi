@@ -36,4 +36,4 @@ I build high-performance distributed systems, specializing in microservices arch
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sheel-nidhi-pandey-336149a/)
-- ✍️ [Personal Blog/Portfolio](YOUR_PORTFOLIO_URL)
+- ✍️ [Personal Blog/Portfolio](https://sheelnidhipandey.info)
