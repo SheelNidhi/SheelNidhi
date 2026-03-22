@@ -1,5 +1,5 @@
-# sheelnidhipandey
-# Hi, I'm Sheelnidhi Pandey  
+# sheeln nidhi pandey
+# Hi, I'm Sheel Nidhi Pandey  
 ### Senior  Engineer | Java & Python Specialist | Fintech Enthusiast
 
 I build high-performance distributed systems, specializing in microservices architecture and financial data infrastructure. Currently focused on optimizing algorithmic efficiency and real-time data processing.
