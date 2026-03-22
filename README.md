@@ -1,4 +1,4 @@
-# sheeln nidhi pandey
+# Sheel Nidhi Pandey
 # Hi, I'm Sheel Nidhi Pandey  
 ### Senior  Engineer | Java & Python Specialist | Fintech Enthusiast
 
